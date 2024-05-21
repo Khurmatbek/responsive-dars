@@ -175,9 +175,10 @@ select {
     }
 
 }
+
 @media only screen and (min-width:1200px) {
-  
-.header {
+
+    .header {
         padding: 10px 0;
     }
 
@@ -263,3 +264,8 @@ select {
         display: none;
     }
 }
+
+h1 {
+    visibility: hidden;
+}
+
